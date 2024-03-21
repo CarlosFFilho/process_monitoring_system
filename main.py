@@ -2,7 +2,6 @@
 
 from sklearn.neural_network import MLPRegressor
 from sklearn.preprocessing import StandardScaler
-import numpy as np
 
 
 # IMPORTING FILE FROM PANDAS SEARCH ENGINES
