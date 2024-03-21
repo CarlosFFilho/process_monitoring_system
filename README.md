@@ -9,7 +9,7 @@ Project that involves an application aimed at monitoring a tubular reactor for t
 ![FRONT3](https://github.com/CarlosFFilho/process_monitoring_system/blob/main/images/result_example_1.png)
 
 ## Logic diagram of programming
-![LOGIC](https://github.com/CarlosFFilho/process_monitoring_system/blob/main/images/fluxo_informa%C3%A7%C3%A3o.png)
+![LOGIC](https://github.com/CarlosFFilho/process_monitoring_system/blob/main/images/fluxo_informacao.png)
 
 ## Technologies used
 ### Back end
