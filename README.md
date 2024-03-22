@@ -2,9 +2,16 @@
 Project that involves an application aimed at monitoring a tubular reactor for the hydrolysis of Triolein in Free Fatty Acids (FFA). The operating conditions of the reactor are entered in it and the application makes a prediction in ANNs to identify the percentage of conversion and production of FFA and suggests what can be improved in the process.
 
 ## Layout
+
+1. Data entry layout:
+
 ![FRONT1](https://github.com/CarlosFFilho/process_monitoring_system/blob/main/images/insert_data_example.png)
 
+2. Unwanted conversion layout:
+
 ![FRONT2](https://github.com/CarlosFFilho/process_monitoring_system/blob/main/images/result_example_2.png)
+
+3. Wanted conversion layout:
 
 ![FRONT3](https://github.com/CarlosFFilho/process_monitoring_system/blob/main/images/result_example_1.png)
 
