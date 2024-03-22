@@ -19,12 +19,12 @@ Project that involves an application aimed at monitoring a tubular reactor for t
 ![LOGIC](https://github.com/CarlosFFilho/process_monitoring_system/blob/main/images/fluxo_informacao.png)
 
 ## Technologies used
-### Back end
+### Back-end:
     Python
     Pandas (The process database is in a file of type "xlsx" and contains 17281 data)
     Scikit-learn
     
-### Front end
+### Front-end:
     Figma
     Tkinter
 
