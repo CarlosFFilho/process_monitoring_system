@@ -26,7 +26,7 @@ Project that involves an application aimed at monitoring a tubular reactor for t
     
 ### Front-end:
     Figma
-    Tkinter
+    Tkinter 
 
 ## How to execute this project?
   1. Open and run the "process_monitoring.py" file in a python language IDE;
